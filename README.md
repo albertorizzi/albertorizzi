@@ -2,6 +2,11 @@
 
 [![Alberto Rizzi's GitHub stats](https://github-readme-stats-phi-khaki.vercel.app/api?username=albertorizzi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://albertorizzi.dev)
 
+[![Wakatime stats](https://github-readme-stats-phi-khaki.vercel.app/api/wakatime?username=albertorizzi&layout=compact)](https://albertorizzi.dev)
+
+
+https://github-readme-stats-phi-khaki.vercel.app/api/wakatime?username=albertorizzi&layout=compact
+
 <!--
 **albertorizzi/albertorizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
