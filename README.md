@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Alberto Rizzi's GitHub stats](https://github-readme-stats-phi-khaki.vercel.app/api?username=albertorizzi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://albertorizzi.dev)
+
 <!--
 **albertorizzi/albertorizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
