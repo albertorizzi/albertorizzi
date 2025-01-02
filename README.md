@@ -2,10 +2,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://albertorizzi.dev">
-    <img src="https://github-readme-stats-phi-khaki.vercel.app/api?username=albertorizzi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Alberto Rizzi's GitHub stats">
+    <img src="https://github-readme-stats-fork-two.vercel.app/api?username=albertorizzi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Alberto Rizzi's GitHub stats">
   </a>
   <a href="https://albertorizzi.dev">
-    <img src="https://github-readme-stats-phi-khaki.vercel.app/api/wakatime?username=albertorizzi&layout=compact" alt="Wakatime stats">
+    <img src="https://github-readme-stats-fork-two.vercel.app/api/wakatime?username=albertorizzi&layout=compact" alt="Wakatime stats">
   </a>
 </div>
 
