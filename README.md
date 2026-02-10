@@ -9,7 +9,7 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=albertorizzi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=albertorizzi&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
