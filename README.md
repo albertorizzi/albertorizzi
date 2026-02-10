@@ -4,9 +4,6 @@
   <a href="https://albertorizzi.dev">
     <img src="https://github-readme-stats-fork-two.vercel.app/api?username=albertorizzi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="Alberto Rizzi's GitHub stats">
   </a>
-  <a href="https://albertorizzi.dev">
-    <img src="https://github-readme-stats-fork-two.vercel.app/api/wakatime?username=albertorizzi&layout=compact" alt="Wakatime stats">
-  </a>
 </div>
 
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=albertorizzi&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
